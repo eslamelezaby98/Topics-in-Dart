@@ -19,3 +19,9 @@
 
 - constructor is the first method run when you create an object.
 - we can save data inside it.
+
+### Types of Constructors
+
+- Default Constructor
+- Parameter Constructor
+- Named Constructor
