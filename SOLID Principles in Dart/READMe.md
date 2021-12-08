@@ -5,5 +5,6 @@
 
 
 ## Source:
-https://dev.to/elianmortega/vol-2-solid-rules-in-dart-2e6m
-https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV
+- https://dev.to/elianmortega/vol-2-solid-rules-in-dart-2e6m
+
+- https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV
