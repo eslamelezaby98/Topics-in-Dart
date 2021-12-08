@@ -1,4 +1,4 @@
-//TODO: Your job is refomat this class to be single responsibility.
+//TODO: Your job is refomat this class
 //Good Luck
 
 class Addition {
