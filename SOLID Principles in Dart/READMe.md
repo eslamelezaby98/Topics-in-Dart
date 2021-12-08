@@ -2,3 +2,8 @@
 
 # SOLID
 ![SOLID_Principles-OCP-1](https://user-images.githubusercontent.com/85620139/145210340-c3c71f14-1445-4f9d-af54-10a75a347c42.jpg)
+
+
+## Source:
+https://dev.to/elianmortega/vol-2-solid-rules-in-dart-2e6m
+https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV
