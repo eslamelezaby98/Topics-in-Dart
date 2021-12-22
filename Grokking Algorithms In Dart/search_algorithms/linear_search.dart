@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  List list = [3, 4, 2, 1, 6, 7];
+  // List list = [3, 4, 2, 1, 6, 7];
   List string = ['ahmed' , 'mohamed','ali', 'khaled'];
   print(linearSearch(string, 'Mohamed'));
 }
