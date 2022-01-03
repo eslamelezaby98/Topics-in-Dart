@@ -1,10 +1,10 @@
 //! 1# Eager initialization.
-class EzgerInitializationDBHelper {
-  EzgerInitializationDBHelper._(); // private constarctor.
+class EagerInitializationDBHelper {
+  EagerInitializationDBHelper._(); // private constarctor.
 
   // instanse of private DBHelper.
-  static final EzgerInitializationDBHelper instance =
-      EzgerInitializationDBHelper._();
+  static final EagerInitializationDBHelper instance =
+      EagerInitializationDBHelper._();
 
   int counter = 1;
   incrementCounter() {

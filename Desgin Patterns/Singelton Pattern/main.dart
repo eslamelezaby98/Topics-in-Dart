@@ -1,11 +1,11 @@
 import '1_singelton _pattern_impl.dart';
 
 void main(List<String> args) {
-  EzgerInitializationDBHelper dbHlper = EzgerInitializationDBHelper.instance;
+  EagerInitializationDBHelper dbHlper = EagerInitializationDBHelper.instance;
   print(dbHlper.incrementCounter());
   print(dbHlper.incrementCounter());
   print(dbHlper.incrementCounter());
-  EzgerInitializationDBHelper dbHlper2 = EzgerInitializationDBHelper.instance;
+  EagerInitializationDBHelper dbHlper2 = EagerInitializationDBHelper.instance;
   print(dbHlper2.incrementCounter());
   print(dbHlper2.incrementCounter());
   // DBHelper dbHelper3 = DBHelper();
