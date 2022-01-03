@@ -1,3 +1,5 @@
+// test functions, be careful you will face infinty loop ^-^
+
 void main(List<String> args) {}
 
 // time complexity => O(n)
