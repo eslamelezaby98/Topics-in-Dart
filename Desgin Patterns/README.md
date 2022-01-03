@@ -16,3 +16,7 @@ Structure Patterns ⇒ for example relation between object
 Behavioral Patterns ⇒ for example: to control conditions
 
 ![Types-of-Design-Pattern](https://user-images.githubusercontent.com/85620139/147975891-a7162300-9a02-4a41-a4fe-5d406f38edaf.jpg)
+
+### Sources:
+- https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ
+- https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj

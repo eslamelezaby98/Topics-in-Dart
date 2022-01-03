@@ -7,7 +7,7 @@ class EzgerInitializationDBHelper {
       EzgerInitializationDBHelper._();
 
   int counter = 1;
-  IncrementCounter() {
+  incrementCounter() {
     return counter++;
   }
 }
@@ -18,14 +18,13 @@ class LazyInitializationDBHelper {
   LazyInitializationDBHelper._internal();
 
   static LazyInitializationDBHelper? getInstance() {
-    if (_instance == null) {
-      _instance = LazyInitializationDBHelper._internal();
-    }
+    
+    _instance ??= LazyInitializationDBHelper._internal();
     return _instance;
   }
 
   int counter = 1;
-  IncrementCounter() {
+  incrementCounter() {
     return counter++;
   }
 }
@@ -39,7 +38,7 @@ class FactorySingletonDBHelper {
   factory FactorySingletonDBHelper() => _instance;
 
   int counter = 1;
-  IncrementCounter() {
+  incrementCounter() {
     return counter++;
   }
 }
