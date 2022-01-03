@@ -6,9 +6,6 @@ class EzgerInitializationDBHelper {
   static final EzgerInitializationDBHelper instance =
       EzgerInitializationDBHelper._();
 
-  // another way to make private constractor
-  // factory DBHelper() => _instance;
-
   int counter = 1;
   IncrementCounter() {
     return counter++;
